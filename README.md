@@ -1,3 +1,1 @@
-"# pratical2" 
-"# pratical2" 
-"# pratical3" 
+# pratical2
